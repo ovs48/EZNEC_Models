@@ -1,0 +1,18 @@
+HyEndFed 8-Band
+20-Oct-2023 23:27:09
+DL1JHR
+
+Endgespeiste Antenne für 80m, 40m, 30m (eingeschränkt), 20m, 17m, 15m, 12m und 10m.
+DL7AB-Spule zur Kompensation unterschiedlicher Verkürzungsfaktoren.
+1:49 UnUn als Spartrafo geschalten. Dadurch wirkt Koax-Außenleiter als Gegegengewicht.
+Ggf. Mantelwellensperre nach 4.5-5m.
+Koax-Außenleiter hat ungefähr Halbwellenresonanz im 10m-Band und strahlt deshalb erheblich.
+
+End-fed antenne for 80m, 40m, 30m (limited), 20m, 17m, 15m, 12m and 10m.
+DL7AB-coil to improve resonance for all bands.
+1:49 UnUn is configured as auto-transformer. Therefore, outer coax conductor acts as counterpoise.
+A choke should be placed 4.5-5m from the feed point.
+The outer conductor of the coax feed line is about a half wavelenght long in 10m band. Therefore,
+it could show a strong radiation.
+
+

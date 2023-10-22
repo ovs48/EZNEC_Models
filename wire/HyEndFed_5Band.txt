@@ -1,0 +1,17 @@
+HyEndFed 5-Band
+19-Oct-2023 18:13:19
+DL1JHR
+
+Endgespeiste Antenne für 80m, 40m,  20m, 15m und 10m.
+Verlängerungsspule für 80m.
+1:49 UnUn als Spartrafo geschalten. Dadurch wirkt Koax-Außenleiter als Gegegengewicht.
+Ggf. Mantelwellensperre nach ca. 4.5m.
+Koax-Außenleiter hat ungefähr Halbwellenresonanz im 10m-Band und strahlt deshalb erheblich.
+
+End-fed antenne for 80m, 40m, 20m, 15m and 10m.
+Loading-coil for 80m.
+1:49 UnUn is configured as auto-transformer. Therefore, outer coax conductor acts as counterpoise.
+A choke should be placed about 4.5m from the feed point.
+The outer conductor of the coax feed line is about a half wavelenght long in 10m band. Therefore,
+it could show a strong radiation.
+
