@@ -1,0 +1,14 @@
+VP2E 20m-Band
+22-Oct-2023
+DL1JHR
+
+Vertikal Polarisierte 2 Element Antenne
+Offset gespeister Ganzwellendipol niedrig über perfektem Grund
+vertikal polarisiert
+verliert seine Performance über realem Grund
+
+Vertically polarised 2 element antenna
+offset fed fullwave dipol, low height over perfect ground
+vertically polarised
+loses its performance over real ground
+
