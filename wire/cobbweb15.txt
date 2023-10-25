@@ -1,0 +1,7 @@
+Cobbweb 15m-Band
+27-Aug-2023 21:27:46
+DL1JHR
+
+Cobbweb für 15m, Impedanz von 12.5Ohm muss auf 50Ohm hochtransformiert werden
+
+Cobbweb for 15m, impedance of 12.5Ohms needs to be transformed to 50Ohms
