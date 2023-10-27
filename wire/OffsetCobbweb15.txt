@@ -1,0 +1,7 @@
+Offset Cobbweb 15m
+28-Aug-2023 10:18:20
+DL1JHR
+
+Cobbweb für 15m, Offset-Speisung für 50Ohm
+
+Cobbweb for 15m, fed offset to achieve 50Ohms
