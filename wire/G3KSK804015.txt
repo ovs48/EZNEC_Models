@@ -1,0 +1,7 @@
+G3KSK 80m 40m 15m
+27-Oct-2023 18:01:58
+DL1JHR
+
+Gefalteter Dipol für 80m, kombiniert mit 40m-Dipol der auch auf 15m arbeitet.
+
+Folded Dipole for 80m, combined with a dipole for 40m, which works on 15m, too.
