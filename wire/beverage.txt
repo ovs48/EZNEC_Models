@@ -1,0 +1,7 @@
+Beverage
+30-Oct-2023
+DL1JHR
+
+Beverage 200m lang, 2m über Boden, 600Ohm
+
+Beverage 200m long, 2m over ground, 600Ohms
