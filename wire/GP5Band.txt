@@ -1,0 +1,10 @@
+5-Band Groundplane
+30-Oct-2023 21:40:58
+DL1JHR
+
+5-Band Groundplane für 20m, 17m, 15m, 12m und 10m
+Die Strahler für 17m, 15m, 12m und 10m sind direkt mit dem Strahler für 20m verbunden.
+
+5-band Groundplane for 20m, 17m, 15m, 12m and 10m
+Radiators for 17m, 15m, 12m and 10m are directly connected to the 20m radiator.
+
