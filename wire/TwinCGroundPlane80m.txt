@@ -1,0 +1,16 @@
+TwinC Groundplane 80m
+29-Oct-2023 16:43:54
+DL1JHR
+
+TwinC Groundplane für 80m
+kurzes Design
+vertikal polarisiert
+hohe Bodenverluste
+Steilstrahlung
+
+TwinC Groudplane for 80m
+short design
+vertically polarised
+high ground loss
+high radiation angles
+
