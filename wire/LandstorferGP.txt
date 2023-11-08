@@ -1,0 +1,7 @@
+Landstorfer Groundplane
+08-Nov-2023 19:57:59
+DL1JHR
+
+Groundplane 2m-Band, Freiraum, optimiert für Gewinn nach Landstorfer
+
+Groundplane 2m-band, free space, optimised for gain according to Landstorfer
