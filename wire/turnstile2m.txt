@@ -1,0 +1,8 @@
+Turnstile 2m
+15-Nov-2023 10:40:50
+DL1JHR
+
+Turnstile Antenne für LEO Satelliten, 2m-Band, zirkulare Polarisation durch unterschiedliche Dipollängen, Anpassung durch Stichleitung
+
+Turnstile antenna for LEO satellites, 2m-band, circular polarisation by different lengths of dipols, matching by stub line
+
